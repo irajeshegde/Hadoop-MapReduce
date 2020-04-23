@@ -17,7 +17,7 @@ public class StudentsMarks {
 			if (Integer.parseInt(marksCount[2]) > 60) {
 				output.collect(new Text("Above-Sixty"), one);
 			}
-			//2. Total number of students who have passed in all the subjects
+			// 2. Total number of students who have passed in all the subjects
 			if (marksCount[5].equals("YES")) {	
 				output.collect(new Text("Passed"), one);
 			}
