@@ -13,8 +13,8 @@ Use the Hadoop MapReduce programming framework to come up with a Program which w
 2. Total number of students who have passed in all the subjects
 
 
-#### Input Dataset
+### Input Dataset
 ![alt text](https://github.com/irajeshegde/Hadoop-MapReduce/blob/master/images/input.png "Input")
 
-## Output HDFS file
+### Output HDFS file
 ![alt text](https://github.com/irajeshegde/Hadoop-MapReduce/blob/master/images/output.png "Output")
